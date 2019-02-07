@@ -1,11 +1,6 @@
 {
-  "client_id": "",
+  "client_id": "0oaivb9g0hvaRh5ua0h7",
   "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
-  "authorization_scope": "openid email profile",
-  "discovery_uri": "",
-  "authorization_endpoint_uri": "",
-  "token_endpoint_uri": "",
-  "registration_endpoint_uri": "",
-  "user_info_endpoint_uri": "",
-  "https_required": true
+  "authorization_scope": "openid profile offline_access",
+  "discovery_uri": "https://dev-189003.oktapreview.com/oauth2/ausitmt164XlT5F5k0h7/.well-known/openid-configuration"
 }
